@@ -1,0 +1,11 @@
+{
+  "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
+  "name": "Asura Scans",
+  "lang": "en",
+  "baseUrl": "https://asurascans.com",
+  "id": "6247824327199706550",
+  "versionCode": 62,
+  "version": "1.4.62",
+  "nsfw": 0,
+  "origin": "keiyoushi"
+}
