@@ -25,8 +25,7 @@ abstract class Taiyo : HttpSource() {
     override fun popularMangaRequest(page: Int): Request = TODO("Implementar popularMangaRequest")
     override fun popularMangaParse(response: Response): MangasPage = TODO("Implementar popularMangaParse")
 
-    override fun searchMangaRequest(page: Int, query: String, filters: FilterList): Request =
-        TODO("Implementar searchMangaRequest")
+    override fun searchMangaRequest(page: Int, query: String, filters: FilterList): Request = TODO("Implementar searchMangaRequest")
     override fun searchMangaParse(response: Response): MangasPage = TODO("Implementar searchMangaParse")
 
     override fun latestUpdatesRequest(page: Int): Request = TODO("Implementar latestUpdatesRequest")
